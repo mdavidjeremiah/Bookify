@@ -193,3 +193,4 @@ black --check readaloud/
 ## License
 
 MIT © 2026 readaloud contributors
+# Bookify
