@@ -1,0 +1,6 @@
+Welcome to readaloud.
+This is a demonstration of the offline document reader.
+You can pause playback by pressing space or saying reader pause.
+Reading speed can be adjusted with plus and minus keys.
+Your reading position is automatically saved when you quit.
+Enjoy listening to your books and documents hands-free!
