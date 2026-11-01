@@ -1,4 +1,4 @@
-# readaloud 📖🔊
+# Readaloud 📖🔊
 
 > **Offline voice-controlled document reader CLI** — reads your PDFs, DOCX, PPTX, EPUB and more aloud, with keyboard and voice control, fully offline.
 
@@ -40,7 +40,6 @@ readaloud --setup
 ```
 
 ### 2. Read a file
-
 ```bash
 readaloud mybook.pdf
 readaloud lecture.pptx --speed 1.3
@@ -48,11 +47,9 @@ readaloud novel.epub --page 42
 ```
 
 ### 3. File picker (no argument needed)
-
 ```bash
 readaloud          # lists supported files in current directory
 ```
-
 ---
 
 ## Keyboard Controls
@@ -181,7 +178,6 @@ black --check readaloud/
 ---
 
 ## Roadmap
-
 | Version | Scope |
 |---------|-------|
 | **v0.1** | Core loaders, pyttsx3 TTS, keyboard + voice control, persistence, Rich UI |
